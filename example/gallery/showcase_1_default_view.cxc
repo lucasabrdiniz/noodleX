@@ -1,0 +1,6 @@
+close session
+open /Users/lucasabreudiniz/Downloads/noodleX/example/gallery/showcase_1_default.bild
+lighting soft
+set bgColor white
+key #0000ff:3.38 #ffffff:7.09 #ff0000:10.80 pos 0.62,0.06 size 0.18,0.025 fontSize 16
+view

@@ -1,0 +1,6 @@
+close session
+open /Users/lucasabreudiniz/Downloads/noodleX/example/gallery/showcase_2_clipped.bild
+lighting soft
+set bgColor white
+key #0000ff:3.54 #ffffff:6.39 #ff0000:9.23 pos 0.62,0.06 size 0.18,0.025 fontSize 16
+view

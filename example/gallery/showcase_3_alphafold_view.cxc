@@ -1,0 +1,6 @@
+close session
+open /Users/lucasabreudiniz/Downloads/noodleX/example/gallery/showcase_3_alphafold.bild
+lighting soft
+set bgColor white
+key #ff7d45:0.00 #ffdb13:33.33 #65cbf3:66.67 #0053d6:100.00 pos 0.62,0.06 size 0.18,0.025 fontSize 16
+view
